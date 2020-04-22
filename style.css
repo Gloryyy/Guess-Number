@@ -1,0 +1,21 @@
+#number-guess,#result,#history{
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.banner {
+    color: rgb(235, 181, 6);
+    font-family: sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to left, #5388dc, #a382d1, #d17fb9, #e9859e, #ee9587, #ed9886, #ed9c85, #ec9f85, #ed9493, #e78da5, #d68ab8, #bd8bc8);
+}
+#score{
+    background-color: rgb(235, 158, 128);
+    width: fit-content;
+    padding: 7px;
+    margin: 0 auto 0 auto;
+    overflow: hidden;
+    font-size: 20px;
+}
